@@ -1,0 +1,10 @@
+body{
+    background-color: orchid;
+}
+.home{
+    background-color: orange;
+    
+    &&__nav{
+        background-color: aqua;
+    }
+}
